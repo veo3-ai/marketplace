@@ -7,7 +7,7 @@
     "url": "https://www.veo3ai.io"
   },
   "homepage": "https://www.veo3ai.io/mcp-server",
-  "repository": "https://github.com/nereo-io/veo3ai-marketplace",
+  "repository": "https://github.com/veo3-ai/marketplace",
   "interface": {
     "displayName": "Veo3 AI",
     "shortDescription": "Images, videos and audio on your Veo3 AI canvas",

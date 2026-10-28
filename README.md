@@ -19,7 +19,7 @@ Paste this into a Codex task:
 ```text
 Install the Veo3 AI plugin so I can create images and videos here.
 
-1. Add the marketplace: run `codex plugin marketplace add nereo-io/veo3ai-marketplace --ref main`
+1. Add the marketplace: run `codex plugin marketplace add veo3-ai/marketplace --ref main`
 2. Install the plugin: run `codex plugin add veo3ai@veo3ai`
 3. In a new task, sign in to my Veo3 AI account when asked
 
@@ -29,7 +29,7 @@ Tell me when it's ready to start creating.
 ### Or run it yourself
 
 ```bash
-codex plugin marketplace add nereo-io/veo3ai-marketplace --ref main
+codex plugin marketplace add veo3-ai/marketplace --ref main
 codex plugin add veo3ai@veo3ai
 ```
 
