@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "veo3ai": {
+      "type": "http",
+      "url": "https://www.veo3ai.io/mcp",
+      "tool_timeout_sec": 300
+    }
+  }
+}

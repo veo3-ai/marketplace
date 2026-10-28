@@ -1,0 +1,29 @@
+{
+  "name": "veo3ai",
+  "version": "1.0.0",
+  "description": "Make images, videos, music and edits with Veo3 AI from Codex.",
+  "author": {
+    "name": "Veo3 AI",
+    "url": "https://www.veo3ai.io"
+  },
+  "homepage": "https://www.veo3ai.io/mcp-server",
+  "repository": "https://github.com/nereo-io/veo3ai-marketplace",
+  "interface": {
+    "displayName": "Veo3 AI",
+    "shortDescription": "Images, videos and audio on your Veo3 AI canvas",
+    "longDescription": "Create with Veo3 AI without leaving Codex. Describe what you want, or start from a script or a reference image, and Codex builds it on your Veo3 AI canvas: text-to-image and image editing, text-to-video and image-to-video across Veo 3, Seedance, Kling and other models, music, voiceover and sound, and multi-shot edits that cut your clips into one film. Codex tells you what each run costs in credits before it starts, waits for the results and shows them in the chat; the canvas stays open for you to keep editing on the website. Connect your Veo3 AI account to begin.",
+    "developerName": "Veo3 AI",
+    "category": "Creativity",
+    "capabilities": ["Read", "Write", "Interactive"],
+    "brandColor": "#5B24E9",
+    "websiteURL": "https://www.veo3ai.io",
+    "logo": "./assets/veo3ai-icon.png",
+    "composerIcon": "./assets/veo3ai-icon.png",
+    "defaultPrompt": [
+      "Show my Veo3 AI projects",
+      "Make an 8-second product video from this photo with Veo3 AI",
+      "Write a 30-second story and turn it into a multi-shot video on my Veo3 AI canvas"
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}

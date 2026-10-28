@@ -1,0 +1,20 @@
+{
+  "name": "veo3ai",
+  "interface": {
+    "displayName": "Veo3 AI"
+  },
+  "plugins": [
+    {
+      "name": "veo3ai",
+      "source": {
+        "source": "local",
+        "path": "./plugins/veo3ai"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creativity"
+    }
+  ]
+}
